@@ -8,8 +8,8 @@
 <h1 align="center">Hi!! I'm Trong.</h1>
 <h3 align="center">About Me</h3>  
  <p>
- 👩‍🎓  I'm a third-year CSE undergrad at Hanoi University of Science and Technology.
-<br>🐱 I'm 20 y/o, go by he/him pronouns.
+ 👩‍🎓  I'm a final-year computer science student at Hanoi University of Science and Technology.
+<br>🐱 I'm 21 y/o, go by he/him pronouns.
 <br>💫 I’m trying to learn everything in computer science, like ML, blockchain, webapp,...etc.
 <br>⭐ Besides all that I love listening music especially rap, cats, playing LOL, Valorant, CSGO,...
 <br>👩‍💻 Constantly learning. I'm super interested in everything!
