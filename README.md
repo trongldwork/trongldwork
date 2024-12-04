@@ -62,6 +62,6 @@
 <h2 align="center">Cheers if you've read till here. I will share a secret with you: I'm a chill guy</h2>
 
 <div align="center">
-    <img src="chillguy.webp" width="500" height="300"/>
+    <img src="chillguy.webp" width="auto" height="auto"/>
       
 </div>
