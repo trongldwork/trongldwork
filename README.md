@@ -59,9 +59,9 @@
  
 <!-- Catto gifs -->
 
-<h2 align="center">Cheers if you've read till here. Here's a cute catto 🐱 for you</h2>
+<h2 align="center">Cheers if you've read till here. I will share a secret with you: I'm a chill guy</h2>
 
 <div align="center">
-    <img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/bongo-cat.gif" width="500" height="300"/>
+    <iframe src="https://giphy.com/embed/qJzZ4APiDZQuJDY7vh" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/chill-guy-new-character-qJzZ4APiDZQuJDY7vh"></a></p>
       
 </div>
