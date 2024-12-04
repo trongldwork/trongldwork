@@ -62,6 +62,6 @@
 <h2 align="center">Cheers if you've read till here. I will share a secret with you: I'm a chill guy</h2>
 
 <div align="center">
-    <iframe src="https://giphy.com/embed/qJzZ4APiDZQuJDY7vh" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/chill-guy-new-character-qJzZ4APiDZQuJDY7vh"></a></p>
+    <img src="chillguy.webp" width="500" height="300"/>
       
 </div>
